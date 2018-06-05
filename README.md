@@ -5,10 +5,14 @@
 * [Todoist.js](https://github.com/OiYouYeahYou/todoist.js). _An unofficial JavaScript SDK for Todoist._
 * [Todoist Sync Node](https://github.com/deysuman/Todoist-sync-node-api). _An unofficial Node client for the Todoist Sync API._
 
+# TypeScript
+
+* [Todoist API TS](https://github.com/ManuKle/todoist-api-ts). _An unofficial TypeScript library for Todoist_.
 
 # Python
 
 * [Todoist Python](https://github.com/Doist/todoist-python). _The official Sync SDK and supporting documentation can be found [here](https://developer.todoist.com)._
+* [Pytodoist](https://github.com/Garee/pytodoist). _An unofficial Python wrapper for Todoist_.
 
 # PHP
 
