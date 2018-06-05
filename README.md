@@ -19,8 +19,12 @@
 * [PHP Client for Todoist](https://github.com/FabianBeiner/Todoist-PHP-API-Library). _An unofficial PHP client based on the REST API (v8)_.
 
 
+# .NET
+
+*[Todoist .NET](https://github.com/olsh/todoist-net). _An unofficial .NET client for Todoist_.
 
 # Misc
 
 * [Todoist CLI Client](https://github.com/sachaos/todoist). _A CLI client for Todoist._
 * [Todoist Full Offline Backup](https://github.com/joanbm/todoist-full-offline-backup). _Download a complete backup of your Todoist tasks and attachments._
+* [Habitist](https://github.com/amitness/habitist). _An automation to enable habit tracking in todoist._
