@@ -28,3 +28,5 @@
 * [Todoist CLI Client](https://github.com/sachaos/todoist). _A CLI client for Todoist._
 * [Todoist Full Offline Backup](https://github.com/joanbm/todoist-full-offline-backup). _Download a complete backup of your Todoist tasks and attachments._
 * [Habitist](https://github.com/amitness/habitist). _An automation to enable habit tracking in todoist._
+* [Todoist Progressbar](https://github.com/6uhrmittag/todoist-progressbar). _Adds visual progressbars to tasks and lists with subtasks._
+* [Pomodoist](https://github.com/DeleteIT/Pomodoist). _A Pomodoro productivity tool based on tasks from Todoist_
