@@ -3,7 +3,7 @@
 
 ## C#
 
-*[Todoist .NET](https://github.com/olsh/todoist-net). _An unofficial .NET client for Todoist, written in C#_.
+* [Todoist .NET](https://github.com/olsh/todoist-net). _An unofficial .NET client for Todoist, written in C#_.
 
 ## JavaScript
 
