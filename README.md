@@ -8,8 +8,6 @@
 
 # Python
 
-## Official
-
 * [Todoist Python](https://github.com/Doist/todoist-python). _The official Sync SDK and supporting documentation can be found [here](https://developer.todoist.com)._
 
 # PHP
